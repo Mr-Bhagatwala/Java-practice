@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class Inheritance {
+public class GuessTheNumber {
     public static void main(String[] args) {
         int myNumber = (int)(Math.random()*100);
         int userNumber = 0;
