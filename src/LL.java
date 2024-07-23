@@ -80,7 +80,6 @@ int size = 0;
         return  size;
     }
 
-
     public static  void main (String[] args){
         LL list = new LL();
         list.addFirst("a");
